@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=ChessLocation(int,\ int)
+comment1.params=
+comment1.target=int\ getRow()
+comment2.params=row
+comment2.target=void\ setRow(int)
+comment3.params=
+comment3.target=int\ getCol()
+comment4.params=col
+comment4.target=void\ setCol(int)
+comment5.params=cp
+comment5.target=boolean\ equals(ChessLocation)
+numComments=6

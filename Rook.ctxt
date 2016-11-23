@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=owner\ initialLocation\ game
+comment0.target=Rook(java.lang.String,\ ChessLocation,\ ChessGame)
+numComments=1

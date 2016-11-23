@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=player1\ player2
+comment0.target=ChessGame(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=ChessBoard\ getChessBoard()
+numComments=2
